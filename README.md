@@ -1,25 +1,30 @@
-# 👋 srnerdoso
+# Valdenor/srnerdoso
 
 **Desenvolvedor Fullstack**
-Foco em backend com **Spring Boot 3** e frontend com **Next.js**.
+Experiência com **Spring Boot 3+**, **Next.js 14+** e **PostgreSQL**.
 
 Estudando **Docker** e **Ciência da Computação** (pelo repositório da [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file)) e criando projetos para meu portfólio.
 
-## 🚀 O que faço
+## O que faço
 - Criação de interfaces com **React + Next.js**
 - Backend com **Spring Boot**
 - Aprendizado constante em **Java / Spring Boot**
 - Projetos pessoais publicados em produção
 
-## 🛠️ Tech Stack
-**Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** Java, Spring Boot  
-**Outros:** Docker, Git, Linux, PostgreSQL
+## Tech Stack
+**Linguagens:** Java 17+, JavaScript, TypeScript, Python (básico)
+**Frameworks e Bibliotecas:** Spring Boot, Spring MVC, JPA, Hibernate, Spring Security | React, Next.js
+**APIs e Protocolos:** JWT, RESTFul, JSON
+**Banco de Dados:** PostgreSQL, MySQL
+**Testes Automatizados:** JUnit, Mockito, Testcontainers
+**Ferramentas e DevOps:** Docker, Git
+**Arquitetura e Conceitos:** Clean Architecture, SOLID, TDD, Scrum, Kanban
+**Ferramentas de IA:** Claude Code, Gemini CLI
 
-## ⭐ Projetos em destaque
+## Projetos em destaque
 - [Agendify](https://threadstech.com.br) – MVP de agendamentos para prestadores de serviço.
+- [Stockfy](https://github.com/srnerdoso/stockfy-server) (em progresso) – MVP ERP/PDV para pequenos negócios.
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/valdenor-filho-8b4942350
+- LinkedIn: https://www.linkedin.com/in/valdenor-filho-dev/
 - Email: [valdenor.filhov@gmail.com](mailto:valdenor.filhov@gmail.com)
-
