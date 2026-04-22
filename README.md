@@ -12,19 +12,19 @@ Estudando **Docker** e **Ciência da Computação** (pelo repositório da [Unive
 - Projetos pessoais publicados em produção
 
 ## Tech Stack
-**Linguagens:** Java 17+, JavaScript, TypeScript, Python (básico)
-**Frameworks e Bibliotecas:** Spring Boot, Spring MVC, JPA, Hibernate, Spring Security | React, Next.js
-**APIs e Protocolos:** JWT, RESTFul, JSON
-**Banco de Dados:** PostgreSQL, MySQL
-**Testes Automatizados:** JUnit, Mockito, Testcontainers
-**Ferramentas e DevOps:** Docker, Git
-**Arquitetura e Conceitos:** Clean Architecture, SOLID, TDD, Scrum, Kanban
-**Ferramentas de IA:** Claude Code, Gemini CLI
+- **Linguagens:** Java 17+, JavaScript, TypeScript, Python (básico)
+- **Frameworks e Bibliotecas:** Spring Boot, Spring MVC, JPA, Hibernate, Spring Security | React, Next.js
+- **APIs e Protocolos:** JWT, RESTFul, JSON
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Testes Automatizados:** JUnit, Mockito, Testcontainers
+- **Ferramentas e DevOps:** Docker, Git
+- **Arquitetura e Conceitos:** Clean Architecture, SOLID, TDD, Scrum, Kanban
+- **Ferramentas de IA:** Claude Code, Gemini CLI
 
 ## Projetos em destaque
 - [Agendify](https://threadstech.com.br) – MVP de agendamentos para prestadores de serviço.
 - [Stockfy](https://github.com/srnerdoso/stockfy-server) (em progresso) – MVP ERP/PDV para pequenos negócios.
 
-## 📫 Contato
+## Contato
 - LinkedIn: https://www.linkedin.com/in/valdenor-filho-dev/
 - Email: [valdenor.filhov@gmail.com](mailto:valdenor.filhov@gmail.com)
