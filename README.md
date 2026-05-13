@@ -3,7 +3,7 @@
 **Desenvolvedor Fullstack**
 Experiência com **Spring Boot 3+**, **Next.js 14+** e **PostgreSQL**.
 
-Estudando **Docker** e **Ciência da Computação** (pelo repositório da [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file)) e criando projetos para meu portfólio.
+Cursando Eng. de Software
 
 ## O que faço
 - Criação de interfaces com **React + Next.js**
